@@ -25,7 +25,7 @@ email: example@example.com
 event-date: "2025-06-26T00:00:00"
 tagline: Ellis Doctoral Symposium 2025
 description: >-
-  Fill me in
+  Ellis Doctoral Symposium 2025, Warsaw, Poland
 # twitter-username: <fill_me_in>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://eds2025.github.io" # the base hostname & protocol for your site, e.g. http://example.com
