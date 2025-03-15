@@ -1,0 +1,154 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+
+# Head settings
+title: EDS 2025
+email: example@example.com
+event-date: "2025-06-26T00:00:00"
+tagline: Ellis Doctoral Symposium 2025
+description: >-
+  Fill me in
+# twitter-username: <fill_me_in>
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://eds2025.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+author:
+  name: Ellis Unit Warsaw
+  url: todo
+
+
+# Header settings
+inline-logo: '<span class="logo"><span class="main-name">EDS <span class="sub-name">2025</span></span>'
+header:
+  heading: '<span class="logo"><span class="main-name">EDS</span> <span class="sub-name">2025</span></span>'
+  subheading: Ellis Doctoral Symposium</br>on Robust AI
+  date-location: 25 - 29 August / Warsaw, Poland
+  # Countdown settings
+  countdown-date: "2025-08-25T09:00:00Z"
+  arrow-url: "#about"
+  #countdown-date: "2023-04-11T21:59:59Z"
+  #countdown-text: '<a href="registration">Registration</a> closes in:'
+
+
+# Navigation settings
+navigation:
+  - name: "/ About"
+    url: "#about"
+    # subsites:
+    #   # - name: "/ More information"
+    #   #   url: "/about-ml-in-pl-conference"
+    #   - name: "/ e.g. Previous editions"
+    #     subsites:
+    #       - name: "/ 2024"
+    #         url: "https://eds2024.github.io/"
+
+  - name: "/ Speakers"
+    url: "#speakers"
+
+  # - name: "/ Timeline"
+  #   url: "#timeline"
+
+  # - name: "/ Registration"
+  #   url: "registration"
+
+  - name: "/ Venue"
+    url: "#venue"
+
+  - name: "/ Organizers"
+    url: "#organizers"
+
+
+# Defaults for different pages
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: <fill_me_in>
+
+
+# Colors and styles settings
+photo-border-width: 1px
+color:
+  main: "#DF7162"
+  second: "#DF7162"
+  default-text: "#010101"
+  main-gradient: "#FF0000, #FF00FF"
+  background: "#FFFFFF"
+  image-filter: hue-rotate(190deg)
+  person-photo-filter: "grayscale(75%)"
+  person-photo-gradient: "linear-gradient(140deg, rgba(231,50,42,0) 25%,rgba(231,50,42,0.5) 100%)"
+  ellis-red: "#df7162"
+  ellis-green: "#b2e684"
+  ellis-turquoise: "#4bc5be"
+  ellis-orange: "#e38e48"
+  ellis-blue: "#6a9bdd"
+
+
+# Footer settings
+footer: ML in PL Association
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# social:
+#   - title: linkedin
+#     icon: linkedin
+#     url: <link>
+#   - title: facebook
+#     icon: facebook
+#     url: <link>
+#   - title: twitter
+#     icon: x-twitter
+#     url: <link>
+#   - title: youtube
+#     icon: youtube
+#     url: <link>
+
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-seo-tag
+
+markdown: kramdown
+permalink: pretty
+
+sass:
+  style: compressed # possible values: nested expanded compact compressed
+
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

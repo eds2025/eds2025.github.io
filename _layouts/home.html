@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+    {% include nav.html %}
+    {% include header.html %}
+    {% comment %}
+    {% include home/tickets.html %}
+    {% endcomment %}
+    {% include home/about.html %}
+    {% include home/speakers-slider.html %}
+    {% comment %}
+    {% include agenda-slider.html agenda-data=site.data.agenda %}
+    {% include home/calls.html %}
+    {% include home/sponsors-call.html %}
+    {% include home/sponsors.html %}
+    {% include home/timeline.html %}
+    {% endcomment %}
+    {% include home/venue.html %}
+    {% include home/organizers.html %}
+    {% comment %}
+    {% include contact.html %}
+    {% endcomment %}
+    {% include footer.html %}
+    {% include js.html %}
+</body>
+
+</html>

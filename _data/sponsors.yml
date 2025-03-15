@@ -1,0 +1,65 @@
+- title: '/ <span class="dimond-shine-text">Strategic sponsor</span>'
+  imageMaxWidth: 480px
+  imageMaxHeight: 240px
+  margin: 45px 60px
+  sponsors:
+    - name: fill_me_in
+      image: fill_me_in
+      url: fill_me_in
+
+- title: '/ <span class="platinium-shine-text">Platinum sponsors</span>'
+  imageMaxWidth: 360px
+  imageMaxHeight: 210px
+  margin: 45px 60px
+  sponsors:
+    - name: fill_me_in
+      image: fill_me_in
+      url: fill_me_in
+
+- title: '/ <span class="gold-shine-text">Gold sponsors</span>'
+  imageMaxWidth: 280px
+  imageMaxHeight: 90px
+  margin: 30px 45px
+  sponsors:
+    - name: fill_me_in
+      image: fill_me_in
+      url: fill_me_in
+    
+
+- title: '/ <span class="silver-shine-text">Silver sponsors</span>'
+  imageMaxWidth: 270px
+  imageMaxHeight: 70px
+  margin: 30px 50px
+  sponsors:
+    - name: fill_me_in
+      image: fill_me_in
+      url: fill_me_in
+
+- title: "/ Partners"
+  imageMaxWidth: 280px
+  imageMaxHeight: 120px
+  margin: 30px 45px
+  sponsors:
+    - name: fill_me_in
+      image: fill_me_in
+      url: fill_me_in
+
+
+- title: "/ Honorary Patronages"
+  imageMaxWidth: 270px
+  imageMaxHeight: 160px
+  margin: 30px 45px
+  sponsors:
+    - name: fill_me_in
+      image: fill_me_in
+      url: fill_me_in
+    
+
+- title: "/ Media partners"
+  imageMaxWidth: 215px
+  imageMaxHeight: 115px
+  margin: 20px 30px
+  sponsors:
+    - name: fill_me_in
+      image: fill_me_in
+      url: fill_me_in
