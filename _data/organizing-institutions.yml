@@ -1,4 +1,9 @@
 - name: Ellis Unit Warsaw
   logo: ./images/institutions-logos/logo-ellis-unit-warsaw.png
   # url: example.com
+- name: University of Warsaw
+  logo: ./images/institutions-logos/university-of-warsaw.png
+- name: Ellis
+  logo: ./images/institutions-logos/ellis.png
+  # url: example.com
 
