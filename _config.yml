@@ -35,9 +35,9 @@ author:
 
 
 # Header settings
-inline-logo: '<span class="logo"><span class="main-name">EDS <span class="sub-name">2025</span></span>'
+inline-logo: '<img class="navbar-logo-img" src="./images/eds_warsaw.png" />'
 header:
-  heading: '<span class="logo"><span class="main-name">EDS</span> <span class="sub-name">2025</span></span>'
+  heading: '<img class="heading-img" src="./images/eds_warsaw.png" />'
   subheading: Ellis Doctoral Symposium</br>on Robust AI
   date-location: 25 - 29 August / Warsaw, Poland
   # Countdown settings
