@@ -51,6 +51,13 @@ header:
 navigation:
   - name: "/ About"
     url: "#about"
+    subsites:
+      - name: "Ellis"
+        url: "#about-ellis"
+      - name: "Ellis Unit Warsaw"
+        url: "#about-euw"
+      - name: "EDS 2025"
+        url: "#about-eds"
     # subsites:
     #   # - name: "/ More information"
     #   #   url: "/about-ml-in-pl-conference"

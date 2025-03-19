@@ -1296,3 +1296,17 @@ body {
     text-align: center;
     padding-right: 1em;
 }
+
+.about-subsection {
+    margin-bottom: 15px;
+    scroll-margin-top: 0px;
+}
+
+.about-subsection::before {
+  /* stops the navbar from covering the heading when scrolling to the heading */
+  content: "";
+  display: block;
+  height: 70px;      /* height of your navbar */
+  margin-top: -70px; /* negative margin of the same value */
+  visibility: hidden;
+}
