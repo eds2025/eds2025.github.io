@@ -80,6 +80,9 @@ navigation:
 
   - name: "/ Organizers"
     url: "#organizers"
+  
+  - name: "/ Anti-Harassment Policy"
+    url: "/anti-harassment-policy"
 
 
 # Defaults for different pages
