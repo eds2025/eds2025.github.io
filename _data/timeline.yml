@@ -1,20 +1,23 @@
-- date: 12 May
-  description: 1st registration round opens
+- date: 12 - 31 May 2025
+  description: 1st registration round
 
-- date: 31 May
-  description: 1st registration round closes
+- date: 2 - 16 June 2025
+  description: Verification of submissions
 
-- date: 16 June
-  description: Acceptance notifications
+- date: 16 June 2025
+  description: Acceptance lists
 
-- date: 30 June
-  description: 1st registration round payment deadline
+- date: 17 - 30 June 2025
+  description: Payments for 1st registration round
 
-- date: 11 July
-  description: 2nd registration round closes
+- date: 17 June - 11 July 2025
+  description: 2nd registration round
 
-- date: 25 July
-  description: 2nd registration round payment deadline
+- date: June 17 - July 25 2025
+  description: Verification of submissions & Acceptance lists (ongoing)
 
-- date: 25 - 29 August
+- date: Until 25 July 2025
+  description: Payments for 2nd registration round
+
+- date: 25 - 29 August 2025
   description: <span class="logo"><span class="main-name">EDS</span> <span class="sub-name">2025</span></span>

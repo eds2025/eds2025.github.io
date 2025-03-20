@@ -52,35 +52,52 @@ navigation:
   - name: "/ About"
     url: "#about"
     subsites:
-      - name: "Ellis"
+      - name: "ELLIS"
         url: "#about-ellis"
-      - name: "Ellis Unit Warsaw"
+      - name: "ELLIS Unit Warsaw"
         url: "#about-euw"
       - name: "EDS 2025"
         url: "#about-eds"
-    # subsites:
-    #   # - name: "/ More information"
-    #   #   url: "/about-ml-in-pl-conference"
-    #   - name: "/ e.g. Previous editions"
-    #     subsites:
-    #       - name: "/ 2024"
-    #         url: "https://eds2024.github.io/"
+
+  # - name: "/ Agenda"
+  #   url: "#agenda"
 
   - name: "/ Speakers"
     url: "#speakers"
 
-  # - name: "/ Timeline"
-  #   url: "#timeline"
-
   # - name: "/ Registration"
-  #   url: "registration"
+  #   url: "#registration"
+  #   subsites:
+  #     - name: "Registration Form"
+  #       url: "#registration-form"
+  #     - name: "Timeline"
+  #       url: "/timeline"
+  #     - name: "Fees"
+  #       url: "#fees"
+  #     - name: "For Presenters"
+  #       url: "#for-presenters"
 
   - name: "/ Venue"
     url: "#venue"
+    subsites:
+      - name: "EDS 2025 Location"
+        url: "#venue"
+      - name: "Hello Warsaw!"
+        url: "/hello-warsaw"
+      - name: "Entry Requirements to Poland"
+        url: "/entry-requirements"
+      # - name: "Hotels"
+      #   url: "/hotels"
 
   - name: "/ Organizers"
     url: "#organizers"
-  
+
+  # - name: "/ Sponsors"
+  #   url: "#sponsors"
+
+  # - name: "/ Contact"
+  #   url: "#contact"
+
   - name: "/ Anti-Harassment Policy"
     url: "/anti-harassment-policy"
 
