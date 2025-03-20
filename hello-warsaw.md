@@ -4,7 +4,16 @@ title: Hello Warsaw!
 permalink: /hello-warsaw
 ---
 
-Welcome to Warsaw (Polish: Warszawa), the vibrant capital of Poland, where history meets innovation. As the host city for the ELLIS Doctoral Symposium 2025, we are thrilled to introduce you to a city that combines rich cultural heritage with a forward-thinking, modern atmosphere. Warsaw's Old Town, a UNESCO World Heritage site, is a testament to the city's resilience and beauty, while its thriving tech hubs and cutting-edge architecture reflect its role as a growing center of innovation in Europe. It is also the hometown of two of the world's great figures.: Maria Skłodowska-Curie, the pioneering scientist, and Fryderyk Chopin, the legendary composer, whose legacies continue to inspire generations.
+<div class='row'>
+    <div class='col-md-6'>
+        <p>
+        Welcome to Warsaw (Polish: Warszawa), the vibrant capital of Poland, where history meets innovation. As the host city for the ELLIS Doctoral Symposium 2025, we are thrilled to introduce you to a city that combines rich cultural heritage with a forward-thinking, modern atmosphere. Warsaw's Old Town, a UNESCO World Heritage site, is a testament to the city's resilience and beauty, while its thriving tech hubs and cutting-edge architecture reflect its role as a growing center of innovation in Europe. It is also the hometown of two of the world's great figures.: Maria Skłodowska-Curie, the pioneering scientist, and Fryderyk Chopin, the legendary composer, whose legacies continue to inspire generations.
+        </p>
+    </div>
+    <div class='col-md-6'>  
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/m1JcxvOnCME?si=rF1VQwuKMfdevawG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+</div>
 
 Warsaw is not only known for its historical landmarks but also for its dynamic academic scene. Home to numerous universities and research institutions, the city fosters a collaborative environment for scholars and scientists. It is here, in this thriving intellectual hub, that you'll be able to immerse yourself in the exciting world of artificial intelligence and engage with fellow researchers from around the globe.
 
