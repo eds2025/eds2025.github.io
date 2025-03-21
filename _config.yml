@@ -38,8 +38,8 @@ author:
 inline-logo: '<img class="navbar-logo-img" src="./images/eds_warsaw.png" />'
 header:
   heading: '<img class="heading-img" src="./images/eds_warsaw.png" />'
-  subheading: Ellis Doctoral Symposium</br>on Robust AI
-  date-location: 25 - 29 August / Warsaw, Poland
+  subheading: <strong>Ellis Doctoral Symposium</br>on Robust AI</strong>
+  date-location: 25 - 29 August 2025 / Warsaw, Poland
   # Countdown settings
   countdown-date: "2025-08-25T09:00:00Z"
   arrow-url: "#about"
