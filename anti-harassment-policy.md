@@ -41,4 +41,5 @@ We are dedicated to maintaining a safe and welcoming environment for all partici
 
 We ask all participants to help us create an environment that is respectful, free from harassment, and conducive to productive and positive experiences for everyone.
 
+For any questions or concerns, please feel free to contact the EDS 2025 team at {{site.email}}.
 <!-- For any questions or concerns, please feel free to contact the EDS 2025 team at TODO. -->
