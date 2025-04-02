@@ -3,7 +3,10 @@
   # url: example.com
 - name: University of Warsaw
   logo: ./images/institutions-logos/university-of-warsaw.png
+  url: https://en.uw.edu.pl/
 - name: Ellis
   logo: ./images/institutions-logos/ellis.png
-  # url: example.com
-
+  url: https://ellis.eu/
+- name: ELiAS
+  logo: ./images/institutions-logos/elias.png
+  url: https://elias-ai.eu/

@@ -1,6 +1,16 @@
 <!-- Footer -->
 <footer>
-    <div class="container text-center" style="margin-top: 100px;">
+    <section class="container d-flex">
+        <div class="col-lg-6">
+            <img src="{{ '/images/eu-funding.png' | relative_url }}" alt="Logo" style="width: 100%; height: auto;">
+        </div>
+        <div class="col-lg-8 text-center">
+            <p> <small>This project has received funding from the European Union’s Horizon Europe research
+                    and innovation programme under grant
+                    agreement No.&nbsp;101120237 (ELIAS) </small></p>
+        </div>
+    </section>
+    <div class="container text-center" style="margin-top: 50px;">
         <p>Copyright &copy; 20{{ site.time | date: '%y' }} {{ site.footer }}</p>
         <!-- <p>Made with support from ML in PL Association</p> -->
     </div>
