@@ -59,8 +59,8 @@ navigation:
       - name: "EDS 2025"
         url: "#about-eds"
 
-  # - name: "/ Agenda"
-  #   url: "#agenda"
+  - name: "/ Agenda"
+    url: "/agenda"
 
   - name: "/ Speakers"
     url: "#speakers"
@@ -76,9 +76,6 @@ navigation:
   #       url: "#fees"
   #     - name: "For Presenters"
   #       url: "#for-presenters"
-
-  - name: "/ Agenda"
-    url: "/agenda"
 
   - name: "/ Venue"
     url: "#venue"
@@ -98,11 +95,12 @@ navigation:
   # - name: "/ Sponsors"
   #   url: "#sponsors"
 
+  - name: "/ Contact"
+    url: "/contact"
+
   - name: "/ Anti-Harassment Policy"
     url: "/anti-harassment-policy"
 
-  - name: "/ Contact"
-    url: "/contact"
 
 # Defaults for different pages
 defaults:
