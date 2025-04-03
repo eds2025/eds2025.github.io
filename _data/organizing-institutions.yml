@@ -10,3 +10,8 @@
 - name: ELiAS
   logo: ./images/institutions-logos/elias.png
   url: https://elias-ai.eu/
+- name: Funded-by-EU
+  logo: ./images/institutions-logos/eu.png
+  description: "This project has received funding from the European Union’s Horizon Europe research
+            and innovation programme under grant
+            agreement No.&nbsp;101120237 (ELIAS)"

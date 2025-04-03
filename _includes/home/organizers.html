@@ -1,20 +1,26 @@
 <!-- Institutions Section -->
-<section id="organizers" class="container content-section text-center" >
-    <div class="row">
-      <div class="col-lg-12">
-        <h2>/ Organizers</h2>
-      </div>
+<section id="organizers" class="container content-section text-center">
+  <div class="row">
+    <div class="col-lg-12">
+      <h2>/ Organizers</h2>
     </div>
-    <div class="row">
-      <div class="col-lg-12 text-center" style="width: 100%; display: flex; flex-wrap: wrap; align-items: center;">
-        {% for institution in site.data.organizing-institutions %}
-        <div style="flex: 1; padding: 2em 1em 2em 1em !important;">
-          <a href="{{ institution.url }}">
-            <img width="300" src="{{ institution.logo | relative_url }}" alt="{{ institution.name }}">
-          </a>
-        </div>
-        {% endfor %}
+  </div>
+  <div class="row">
+    <div class="col-lg-12 text-center" style="width: 100%; display: flex; flex-wrap: wrap; align-items: center;">
+      {% for institution in site.data.organizing-institutions %}
+      <div style="flex: 1; padding: 2em 1em 2em 1em !important;">
+        {% if institution.url %}
+        <a href="{{ institution.url }}">
+          <img width="300" src="{{ institution.logo | relative_url }}" alt="{{ institution.name }}">
+        </a>
+        {% else %}
+        <img width="300" src="{{ institution.logo | relative_url }}" alt="{{ institution.name }}">
+        {% endif %}
+        {% if institution.description %}
+        <p width="300"> <small>{{ institution.description }}</small></p>
+        {% endif %}
       </div>
+      {% endfor %}
     </div>
-    
-  </section>
+  </div>
+</section>
