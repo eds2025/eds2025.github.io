@@ -35,3 +35,10 @@
 - **11:00-11:30**: Coffee Break  
 - **11:30-12:30**: Keynote Speaker 7  
 - **12:30-13:30**: Lunch  
+
+## 29 August 2025 (Friday)
+- **09:15-09:30**:	Welcome Coffee
+- **09:30-11:30**:	“How to Popularize Research and Talk About Science” Workshops
+- **11:30-12:15**:	Presentation of IDEAS Institute and University of Warsaw
+- **12:15-13:00**:	Wrap-up Ceremony and announcement of the location of the EDS 2026
+- **13:00-14:00**:	Lunch
