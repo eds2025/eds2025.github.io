@@ -91,7 +91,7 @@ navigation:
       #   url: "/hotels"
 
   - name: "/ Contact"
-    url: "/contact"
+    url: "#contact"
 
   - name: "/ Anti-Harassment Policy"
     url: "/anti-harassment-policy"
