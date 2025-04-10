@@ -61,26 +61,20 @@ navigation:
       - name: "Organizers & sponsors"
         url: "#organizers"
 
-  - name: "/ Agenda"
-    url: "/agenda"
-
   - name: "/ Speakers"
     url: "#speakers"
 
   - name: "/ Registration"
     url: "#registration"
     subsites:
+      - name: "Agenda"
+        url: "#agenda"
       - name: "Call for posters"
         url: "#call-for-posters"
       - name: "Fees"
         url: "#fees"
       - name: "Registration Form"
         url: "#registration-form"
-      # - name: "Agenda"
-      #   url: "/agenda"
-
-      # - name: "Timeline"
-      #   url: "/timeline"
       # - name: "For Presenters"
       #   url: "#for-presenters"
 
