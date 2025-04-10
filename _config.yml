@@ -72,14 +72,14 @@ navigation:
     subsites:
       - name: "Call for posters"
         url: "#call-for-posters"
+      - name: "Fees"
+        url: "#fees"
       # - name: "Agenda"
       #   url: "/agenda"
       # - name: "Registration Form"
       #   url: "#registration-form"
       # - name: "Timeline"
       #   url: "/timeline"
-      # - name: "Fees"
-      #   url: "#fees"
       # - name: "For Presenters"
       #   url: "#for-presenters"
 
