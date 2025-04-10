@@ -67,17 +67,21 @@ navigation:
   - name: "/ Speakers"
     url: "#speakers"
 
-  # - name: "/ Registration"
-  #   url: "#registration"
-  #   subsites:
-  #     - name: "Registration Form"
-  #       url: "#registration-form"
-  #     - name: "Timeline"
-  #       url: "/timeline"
-  #     - name: "Fees"
-  #       url: "#fees"
-  #     - name: "For Presenters"
-  #       url: "#for-presenters"
+  - name: "/ Registration"
+    url: "#registration"
+    subsites:
+      - name: "Call for posters"
+        url: "#call-for-posters"
+      # - name: "Agenda"
+      #   url: "/agenda"
+      # - name: "Registration Form"
+      #   url: "#registration-form"
+      # - name: "Timeline"
+      #   url: "/timeline"
+      # - name: "Fees"
+      #   url: "#fees"
+      # - name: "For Presenters"
+      #   url: "#for-presenters"
 
   - name: "/ Venue"
     url: "#venue"
@@ -90,10 +94,6 @@ navigation:
         url: "/entry-requirements"
       # - name: "Hotels"
       #   url: "/hotels"
-
-
-  # - name: "/ Sponsors"
-  #   url: "#sponsors"
 
   - name: "/ Contact"
     url: "/contact"
