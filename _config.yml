@@ -102,7 +102,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: <fill_me_in>
+      image: "/images/eds_warsaw.png"
 
 
 # Colors and styles settings
