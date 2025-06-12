@@ -1,0 +1,71 @@
+# - name: fill_me_in
+#   title: fill_me_in
+#   linkedin: fill_me_in
+#   twitter: fill_me_in
+#   image: ./images/institutions-logos/fill_me_in.png
+
+- name: Prof. Piotr Sankowski
+  image: ./images/organizing-committee/piotr_sankowski.jpg
+
+- name: Prof. Tomasz Trzciński
+  image: ./images/organizing-committee/tomasz_trzcinski.jpg
+
+- name: Krzysztof Walas, PhD
+  image: ./images/organizing-committee/krzysztof_walas.jpg
+
+- name: Przemysław Kornatowski, PhD
+  image: ./images/organizing-committee/przemyslaw_kornatowski.png
+
+- name: Agata Bader
+  image: ./images/organizing-committee/agata_bader.jpg
+
+- name: Karolina Madyjewska
+  image: ./images/organizing-committee/karolina_madyjewska.jpg
+
+- name: Karolina Matusiak
+  image: ./images/organizing-committee/karolina_matusiak.jpg
+
+- name: Artur Kołodziejczyk-Skowron, PhD
+  image: ./images/organizing-committee/artur_kolodziejczyk.jpg
+
+- name: Kamil Deja, PhD
+  image: ./images/organizing-committee/kamil_deja.jpg
+  linkedin: https://www.linkedin.com/in/kamil-deja-a93896105/
+  twitter: https://x.com/kamilrdeja
+  scholar: https://scholar.google.pl/citations?user=NCGs2HUAAAAJ&hl=en
+
+- name: Michał Krutul
+  image: ./images/organizing-committee/michal_krutul.jpg
+  linkedin: https://www.linkedin.com/in/crewtool/
+  twitter: https://x.com/crewtool
+
+- name: Maciej Pióro
+  image: ./images/organizing-committee/maciej_pioro.jpg
+  twitter: https://x.com/maciejpioro
+  linkedin: https://www.linkedin.com/in/maciej-pioro/
+
+- name: Daniel Marczak
+  image: ./images/organizing-committee/daniel_marczak.jpg
+  linkedin: https://www.linkedin.com/in/danielmarczak/
+  twitter: https://x.com/danie1marczak
+  scholar: https://scholar.google.com/citations?user=Vs4kBzQAAAAJ&hl=en
+
+- name: Aneta Pawelec
+  image: ./images/organizing-committee/aneta_pawelec.jpg
+
+- name: Filip Szatkowski
+  image: ./images/organizing-committee/filip_szatkowski.jpg
+  linkedin: https://www.linkedin.com/in/fszatkowski/
+  twitter: https://x.com/f_szatkowski
+  scholar: https://scholar.google.com/citations?user=xjnAIOEAAAAJ&hl=en
+
+- name: Witold Drzewakowski
+  image: ./images/organizing-committee/witold_drzewakowski.png
+
+- name: Adam Pardyl
+  image: ./images/organizing-committee/adam_pardyl.jpg
+  linkedin: https://www.linkedin.com/in/apardyl/
+  twitter: https://x.com/apardyl
+  scholar: https://scholar.google.com/citations?user=vszbX_0AAAAJ&hl=pl
+
+

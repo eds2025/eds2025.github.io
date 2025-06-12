@@ -92,6 +92,9 @@ navigation:
 
   - name: "/ Contact"
     url: "#contact"
+    subsites:
+      - name: "Committee"
+        url: "#committee"
 
   - name: "/ Anti-Harassment Policy"
     url: "/anti-harassment-policy"
