@@ -58,7 +58,7 @@ navigation:
         url: "#about-euw"
       - name: "EDS 2025"
         url: "#about-eds"
-      - name: "Organizers & sponsors"
+      - name: "Organizers,sponsors & partners"
         url: "#organizers"
 
   - name: "/ Speakers"
