@@ -6,9 +6,15 @@
 
 - name: Prof. Piotr Sankowski
   image: ./images/organizing-committee/piotr_sankowski.jpg
+  linkedin: https://www.linkedin.com/in/piotr-sankowski-80a6875/
 
 - name: Prof. Tomasz Trzciński
   image: ./images/organizing-committee/tomasz_trzcinski.jpg
+  linkedin: https://www.linkedin.com/in/tomasz-trzcinski-168b4838/
+
+- name: Grażyna Żebrowska, PhD
+  image: ./images/organizing-committee/grazyna_zebrowska.jpg
+  linkedin: https://www.linkedin.com/in/grazynazebrowska/
 
 - name: Krzysztof Walas, PhD
   image: ./images/organizing-committee/krzysztof_walas.jpg
@@ -28,6 +34,7 @@
 
 - name: Artur Kołodziejczyk-Skowron, PhD
   image: ./images/organizing-committee/artur_kolodziejczyk.jpg
+  linkedin: www.linkedin.com/in/artur-kołodziejczyk-skowron-phd-b4a557125
 
 - name: Kamil Deja, PhD
   image: ./images/organizing-committee/kamil_deja.jpg
