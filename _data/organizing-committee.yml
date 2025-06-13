@@ -18,6 +18,7 @@
 
 - name: Agata Bader
   image: ./images/organizing-committee/agata_bader.jpg
+  linkedin: https://www.linkedin.com/in/agata-bader-ab4236a/
 
 - name: Karolina Madyjewska
   image: ./images/organizing-committee/karolina_madyjewska.jpg
@@ -61,6 +62,7 @@
 
 - name: Witold Drzewakowski
   image: ./images/organizing-committee/witold_drzewakowski.png
+  linkedin: https://www.linkedin.com/in/wdrzewakowski
 
 - name: Adam Pardyl
   image: ./images/organizing-committee/adam_pardyl.jpg
