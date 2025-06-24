@@ -78,6 +78,9 @@ navigation:
       # - name: "For Presenters"
       #   url: "#for-presenters"
 
+  - name: "/ Mobility grant"
+    url: "#mobility-grant"
+
   - name: "/ Venue"
     url: "#venue"
     subsites:
