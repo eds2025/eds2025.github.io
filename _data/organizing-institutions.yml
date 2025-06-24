@@ -15,3 +15,7 @@
   description: "This project has received funding from the European Union’s Horizon Europe research
             and innovation programme under grant
             agreement No.&nbsp;101120237 (ELIAS)"
+
+- name: ELSA
+  logo: ./images/institutions-logos/elsa.jpg
+  url: https://elsa-ai.eu/
