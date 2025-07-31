@@ -55,5 +55,42 @@
 - name: "Alexandra Birch"
   title: "Professor in the School of Informatics, University of Edinburgh"
   image: "/images/speakers/alexandra-birch.png"
-  bio: >- 
+  bio: >-
     Alexandra Birch is a Professor in the School of Informatics at the University of Edinburgh. Her research has been at the forefront of the adoption of deep learning in natural language processing and helped to advance AI research into large language models.  Her research has focussed on multilingual natural language processing and machine translation but she is broadly interested in leveraging models of language to create compelling applications that improve people's lives. She has led a number of large EU research projects such as EuroLLM (a large language model for Europe), UTTER (a multilingual meeting assistant), and GoURMET (low-resource machine translation for media). She is also co-founder and Chief Scientist at  Aveni, where she is currently leading the FinLLM project training a large language model for the UK Financial Services Industry. Her work bridges academic research and practical industry solutions with significant societal impact.
+
+- name: Tuan Trinh
+  title: "Regional Director East, EIT Digital"
+  image: "/images/speakers/tuan-trinh.jpg"
+  bio: >-
+    Tuan Trinh is the Regional Director East at EIT Digital, responsible for Central and Eastern Europe, including the Western Balkans. EIT Digital is a leading European digital innovation and entrepreneurial education organization, part of the European Institute of Innovation and Technology.He holds a Ph.D. in Computer Science from the Budapest University of Technology and Economics (BME), where he founded the Network Economics Group. He also established the Corvinus Fintech Center at Corvinus University of Budapest. Tuan has been a visiting scientist at various institutions, including Ericsson Research, British Telecom, and Oxford University. He teaches courses at BME, University of Bern, and University of Luxembourg. He has advised the Hungarian government on spectrum auctions and the European Commission on emerging technologies. He is a Pollák-Virág prize recipient and a MIT Certified Senior Cybersecurity professional. His Erdős number is 3.
+
+- name: "Alicja Ziarko"
+  title: "PhD at the Doctoral School of Natural Sciences, University of Warsaw"
+  image: "/images/speakers/alicja-ziarko.jpg"
+  bio: >-
+    Alicja Ziarko is a PhD at the Doctoral School of Natural Sciences, University of Warsaw. Her research focuses on using internal representations from pre-trained language models to support reasoning.
+
+- name: "Philip Piatkiewicz"
+  title: Secretary General Adra
+  image: "/images/speakers/philip-piatkiewicz.jpg"
+  bio: >-
+    Seasoned leader in European affairs and project management, currently serving as the head of Adra - the AI, Data, and Robotics Association. Adra is a leading strategic technology network of stakeholders from academia, industry, and the public sector, dedicated to advancing and adopting AI, data, and robotics technologies across Europe. Adra acts as the private side for the AI, Data, Robotics public-private partnership in Horizon Europe. My expertise encompasses strategic planning, stakeholder engagement, policy analysis, and project execution. I have successfully managed and coordinated complex collaborative projects that support the research, innovation, and industrial agendas of regional, national and EU level, with a particular focus on key enabling technologies and digital industries.
+
+- name: Krzysztof Walas
+  title: IDEAS Research Institute, Politechnika Poznańska, Adra AI-Data-Robotics-Association Research & Robotics Board Member
+  image: "images/organizing-committee/krzysztof_walas.jpg"
+  bio: >-
+    Krzysztof Walas is an Assistant Professor at Poznan University of Technology and was the Robotics Team Leader at IDEAS NCBR. He specializes in robotic perception for interaction tasks. He obtained both his M.Sc. in Automatic Control and Robotics and his Ph.D. in legged robot locomotion from Poznan University of Technology. Following a postdoctoral fellowship at the University of Birmingham’s Intelligent Robotics Lab, he led research groups in several high-profile projects, including Horizon 2020’s THING (focusing on legged robot locomotion) and REMODEL (advancing deformable object manipulation). In February 2024, he joined the European Laboratory for Learning and Intelligent Systems (ELLIS), and in June 2024 was elected to the board of directors of the AI, Data and Robotics Association (ADRA).
+
+- name: Przemysław Kornatowski
+  title: IDEAS Research Institute, Politechnika Warszawska
+  image: "images/organizing-committee/przemyslaw_kornatowski.png"
+  bio: >-
+    Robotics and aeronautical engineer who obtained his Ph.D. in robotics in 2020 from the Laboratory of Intelligent Systems, École Polytechnique Fédérale de Lausanne. During his Ph.D., Przemek developed Dronistics - a human-friendly drone delivery system for person-to-person last-centimetre delivery. One of his latest drone development projects collects and analyzes volcanic ash from erupting volcanoes. 
+    Przemek is passionate about designing, building, and testing original drones and has eleven years of knowledge and experience in the drone industry, notably at the centre of several contemporary Swiss start-ups. He now founded Kornatowski Innovation to share his valuable expertise widely and use it to accelerate the development of creative drone technologies.
+
+- name: Marek Cygan
+  title: Professor at the University of Warsaw, leader of the robot learning group
+  image: "/images/speakers/marek-cygan.jpg"
+  bio: >-
+    He works in the field of machine learning and robotics with particular emphasis on large language models and reinforcement learning. Co-founder of the startup Nomagic, which implements robotic solutions based on artificial intelligence methods. Research interests: approximation algorithms, parameterised complexity, machine learning, robotics.
