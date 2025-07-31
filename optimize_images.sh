@@ -21,7 +21,7 @@ optimize_images () {
     GLOBIGNORE="*.svg,*.gitkeep"
     #mogrify -resize ${size}^ -gravity Center -extent ${size} -format ${format} -quality ${quality} *
     mogrify -adaptive-resize ${size}\> -format ${format} -quality ${quality} *
-    rm -f *.jpg *.jpeg *.png *.gif
+#    rm -f *.jpg *.jpeg *.png *.gif
     unset GLOBIGNORE
     cd "$ROOT_DIR"
 }
