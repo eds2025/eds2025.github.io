@@ -31,19 +31,19 @@ rm -rf "${ROOT_DIR}/images"
 cp -r "${ROOT_DIR}/images_orig" "${ROOT_DIR}/images"
 
 # Optimize images of organizers and advisory-board
-optimize_images organizing-committee 300x300 jpg 90
+optimize_images organizing-committee 118x118 jpg 90
 # optimize_images advisory-board 300x300 webp 90
 
 # Optimize images of speakers
 # optimize_images previous-speakers 300x300 webp 90
-optimize_images speakers 600x600 jpg 90
+optimize_images speakers 320x320 jpg 90
 # optimize_images cfc 600x600 webp 90
 
 # Optimize sponsors and partners logos
-optimize_images sponsors 600x600 png 90
-optimize_images partners-logos 600x600 png 90
-optimize_images institutions-logos 600x600 png 90
-optimize_images honorary-patronages 600x600 png 90
+optimize_images sponsors 600x600 jpg 90
+optimize_images partners-logos 600x600 jpg 90
+optimize_images institutions-logos 600x600 jpg 90
+optimize_images honorary-patronages 600x600 jpg 90
 
 # Optimize AI-generated images
 # optimize_images ai-generated 800x800 webp 90
