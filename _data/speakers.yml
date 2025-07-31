@@ -6,7 +6,7 @@
 
 - name: "Petri Myllymäki"
   title: "Professor of AI and Machine Learning, University of Helsinki"
-  image: "/images/speakers/petri-myllymaki.png"
+  image: "/images/speakers/petri-myllymaki.jpg"
   bio: >-
     Petri Myllymäki is a professor of artificial intelligence and machine learning at the Department of Computer Science of University of Helsinki, Finland. He is a co-founder of several AI start-up companies (Sprint.ai, Ekahau, BayesIT, Cloud'N'Sci, Sightful, Etsimo), and has also been responsible of numerous applied research projects, and his industrial co-operation has led to a number of fielded applications and patents. Myllymäki is an Ellis Fellow at Ellis Unit Helsinki, and a member of the Finnish Academy of Technology and the Finnish Academy of Science and Letters. Currently the Director of the Helsinki Institute for Information Technology and the Vice-Director of the Finnish Center for Artificial Intelligence, the Finnish Flagship on AI, and is working as a member of the UN High-Level Advisory Body on AI, appointed by the UN Secretary General. He is also a member of the Board of Directors of the AI, Data and Robotics PPP (ADRA) for the European Commission, the Board of Directors of the National IT Center for Science hosting the LUMI supercomputer, a member of the National Committee for Research Data Management, a member of the national expert group on EU Horizon Cluster 4, and a member of the national expert group on Digitalization.
 
@@ -30,7 +30,7 @@
 
 - name: "Dario Floreano"
   title: "Director of the Laboratory of Intelligent Systems, EPFL"
-  image: "/images/speakers/dario-floreano.jfif"
+  image: "/images/speakers/dario-floreano.jpg"
   bio: >-
     Dario Floreano is director of the Laboratory of Intelligent Systems at the Swiss Federal Institute of Technology Lausanne (EPFL). Between 2010 and 2022, he was the founding director of the Swiss National Center of Competence in Robotics, a research program that graduated almost 200 PhD students and more than 100 postdocs, funded two professorships at EPFL and University of Zurich, created the EPFL Master's program in Robotics and the annual Swiss Robotics Day, helped launch Cybathlon, and generated more than 15 robotics spinoffs that created several hundred jobs. Prof. Floreano holds an M.A. in Vision, an M.S. in Neural Computation, and a PhD in Robotics. He has held research positions at Sony Computer Science Laboratory, at Caltech/JPL, and at Harvard University. His research interests are Robotics and A.I. at the convergence of biology and engineering. Prof. Floreano made pioneering contributions to the fields of evolutionary robotics, aerial robotics, and soft robotics. He served in numerous advisory boards and committees, including the Future and Emerging Technologies division of the European Commission, the World Economic Forum Agenda Council, the International Society of Artificial Life, the International Neural Network Society, and in the editorial committee of several scientific journals. In addition, he helped spinning off three drone companies (senseFly.com, Flyability.com, Elythor.com) and a non-for-profit portal on robotics and A.I. (RoboHub.org).
 
@@ -54,7 +54,7 @@
 
 - name: "Alexandra Birch"
   title: "Professor in the School of Informatics, University of Edinburgh"
-  image: "/images/speakers/alexandra-birch.png"
+  image: "/images/speakers/alexandra-birch.jpg"
   bio: >-
     Alexandra Birch is a Professor in the School of Informatics at the University of Edinburgh. Her research has been at the forefront of the adoption of deep learning in natural language processing and helped to advance AI research into large language models.  Her research has focussed on multilingual natural language processing and machine translation but she is broadly interested in leveraging models of language to create compelling applications that improve people's lives. She has led a number of large EU research projects such as EuroLLM (a large language model for Europe), UTTER (a multilingual meeting assistant), and GoURMET (low-resource machine translation for media). She is also co-founder and Chief Scientist at  Aveni, where she is currently leading the FinLLM project training a large language model for the UK Financial Services Industry. Her work bridges academic research and practical industry solutions with significant societal impact.
 
@@ -78,7 +78,7 @@
 
 - name: Przemysław Kornatowski
   title: IDEAS Research Institute, Politechnika Warszawska
-  image: "images/organizing-committee/przemyslaw_kornatowski.png"
+  image: "images/organizing-committee/przemyslaw_kornatowski.jpg"
   bio: >-
     Robotics and aeronautical engineer who obtained his Ph.D. in robotics in 2020 from the Laboratory of Intelligent Systems, École Polytechnique Fédérale de Lausanne. During his Ph.D., Przemek developed Dronistics - a human-friendly drone delivery system for person-to-person last-centimetre delivery. One of his latest drone development projects collects and analyzes volcanic ash from erupting volcanoes. 
     Przemek is passionate about designing, building, and testing original drones and has eleven years of knowledge and experience in the drone industry, notably at the centre of several contemporary Swiss start-ups. He now founded Kornatowski Innovation to share his valuable expertise widely and use it to accelerate the development of creative drone technologies.
