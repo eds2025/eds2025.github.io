@@ -20,7 +20,7 @@ optimize_images () {
     cd "$output_directory"
     GLOBIGNORE="*.svg,*.gitkeep"
     #mogrify -resize ${size}^ -gravity Center -extent ${size} -format ${format} -quality ${quality} *
-    mogrify -adaptive-resize ${size}\> -format ${format} -quality ${quality} *
+    mogrify -adaptive-resize ${size}\> -format ${format} -quality ${quality} -background white -alpha remove -alpha off *
 #    rm -f *.jpg *.jpeg *.png *.gif
     unset GLOBIGNORE
     cd "$ROOT_DIR"
