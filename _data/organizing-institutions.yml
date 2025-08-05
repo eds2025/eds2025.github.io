@@ -7,15 +7,3 @@
 - name: Ellis
   logo: ./images/institutions-logos/ellis.jpg
   url: https://ellis.eu/
-- name: ELiAS
-  logo: ./images/institutions-logos/elias.jpg
-  url: https://elias-ai.eu/
-- name: Funded-by-EU
-  logo: ./images/institutions-logos/eu.jpg
-  description: "This project has received funding from the European Union’s Horizon Europe research
-            and innovation programme under grant
-            agreement No.&nbsp;101120237 (ELIAS)"
-
-- name: ELSA
-  logo: ./images/institutions-logos/elsa.jpg
-  url: https://elsa-ai.eu/
