@@ -5,15 +5,23 @@
 - name: Embassy of Switzerland in Poland
   logo: ./images/partners-logos/embassy-of-switzerland-in-poland.jpg
 
+- name: Google
+  logo: ./images/partners-logos/google.webp
+
 - name: G-Research
   logo: ./images/partners-logos/g-research.png
 
-- name: Google
-  logo: ./images/partners-logos/google.webp
+
+- name: Edu4Industry
+  logo: ./images/partners-logos/edu4industry.png
+
+- name: adra
+  logo: ./images/partners-logos/adra.png
 
 - name: ELiAS
   logo: ./images/institutions-logos/elias.jpg
   url: https://elias-ai.eu/
+
 - name: Funded-by-EU
   logo: ./images/institutions-logos/eu.jpg
   description:
