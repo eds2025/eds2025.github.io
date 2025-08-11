@@ -18,6 +18,15 @@
 - name: adra
   logo: ./images/partners-logos/adra.png
 
+- name: BOSCH
+  logo: ./images/partners-logos/bosch.webp
+
+- name: United Robots
+  logo: ./images/partners-logos/united_robots.png
+
+- name: fictiolab
+  logo: ./images/partners-logos/united_robots.png
+
 - name: ELiAS
   logo: ./images/institutions-logos/elias.jpg
   url: https://elias-ai.eu/
