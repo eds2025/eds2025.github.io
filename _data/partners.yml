@@ -24,8 +24,8 @@
 - name: United Robots
   logo: ./images/partners-logos/united_robots.png
 
-- name: fictiolab
-  logo: ./images/partners-logos/united_robots.png
+- name: fictionlab
+  logo: ./images/partners-logos/fictionlab.png
 
 - name: ELiAS
   logo: ./images/institutions-logos/elias.jpg
