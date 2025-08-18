@@ -1,6 +1,9 @@
 - name: Ministry of Digital Affairs
   logo: ./images/patrons-logos/ministerstwo_cyfryzacji.png
 
+- name: Ministry of Finance
+  logo: ./images/patrons-logos/mf.png
+
 - name: Miasto Stołeczne Warszawa
   logo: ./images/patrons-logos/warsaw.png
 
