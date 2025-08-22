@@ -5,6 +5,9 @@
 - name: Embassy of Switzerland in Poland
   logo: ./images/partners-logos/embassy-of-switzerland-in-poland.jpg
 
+- name: Orlen
+  logo: ./images/partners-logos/orlen.jpeg
+
 - name: Google
   logo: ./images/partners-logos/google.webp
 
