@@ -1,3 +1,5 @@
+- name: IDEAS Research Institute
+  logo: ./images/institutions-logos/ideas.jpg
 - name: Ellis Unit Warsaw
   logo: ./images/institutions-logos/logo-ellis-unit-warsaw.jpg
   # url: example.com
