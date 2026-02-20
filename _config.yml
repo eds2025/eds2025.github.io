@@ -28,7 +28,7 @@ description: >-
   Ellis Doctoral Symposium 2025, Warsaw, Poland
 # twitter-username: <fill_me_in>
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://eds2025.pl" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://eds2025.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: Ellis Unit Warsaw
   url: todo
